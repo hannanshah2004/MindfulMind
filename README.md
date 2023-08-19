@@ -1,6 +1,6 @@
 # MindfulMind
 
-The Mindful Mind Google Chrome Extension is a versatile and motivational tool designed to help users enhance their productivity, stay motivated, and practice mindfulness through the combination of a countdown timer and inspiring quotes. This extension offers users a comprehensive experience by integrating various technologies and APIs, including HTML, CSS, JavaScript, the Chrome API, OpenAI's GPT-3 API (Chat Model), and audio playback.
+The Mindful Mind Google Chrome Extension is a versatile and motivational tool designed to help users enhance their productivity, stay motivated, and practice mindfulness through the combination of a countdown timer and inspiring quotes. This extension offers users a comprehensive experience by integrating various technologies and APIs, including HTML, CSS, JavaScript, the Chrome API, OpenAI's GPT-3 API (Chat Model), and audio playback. My personal GPT API Key has been removed for my own security, but feel free to purchase your own and try it out.
 
 https://www.youtube.com/watch?v=RhGmfKsko6M&ab_channel=HannanShah
 ![image](https://github.com/hannanshah2004/MindfulMind/assets/141286404/1fc4b3c3-e851-48a3-b59d-37df2784dd38)
