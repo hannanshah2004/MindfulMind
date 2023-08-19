@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mindful Mind</title>
+  <link rel="stylesheet" type="text/css" href="popup.css">
+  <script src="popup.js"></script>
+</head>
+<body>
+  <div class="popup-container">
+    <h1>Mindful Mind</h1>
+    <div class="input-container">
+      <input type="number" id="minutes" placeholder="Minutes">
+      <input type="number" id="seconds" placeholder="Seconds">
+      <button id="startButton">Start Countdown</button>
+    </div>
+    <div class="dropdown-container">
+      <select id="motivationOptions">
+        <option value="Life Coaches">Life Coaches</option>
+        <option value="Health and Wellness Experts">Health and Wellness Experts</option>
+        <option value="Survivors and Overcomers">Survivors and Overcomers</option>
+        <option value="Activists">Activists</option>
+        <option value="Entrepreneurs">Entrepreneurs</option>
+        <option value="Motivational Comedians">Motivational Comedians</option>
+      </select>
+      <button id="generateQuote">Generate Quote</button>
+    </div>
+    <div class="timer-controls">
+      <button id="pauseResumeButton">Pause</button>
+    </div>
+    <div class="quote-display">
+      <p id="timerDisplay"></p> 
+    </div>
+  </div>
+  <audio id="countdownSound" src="sound.mp3"></audio>
+</body>
+</html>
+
